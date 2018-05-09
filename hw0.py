@@ -14,5 +14,5 @@ for j in list:
         ch += j
 #print(list2)
 print(list2.count('NTU'))
-
+#add this line
 
